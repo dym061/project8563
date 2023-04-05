@@ -1,0 +1,59 @@
+.float_container {
+	
+  position: fixed;
+  top: 30%;
+  right: 0;
+  transform: translateY(-50%);
+  transform: translateX(15px);
+}
+
+.float_buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.float_button {
+  z-index:99999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 10%;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  transition: all 0.3s ease;
+}
+
+.float_button:hover {
+  cursor:pointer;
+  transform: translateX(-15px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.float_phone {
+  background-color: #775144;
+  color: #fff;
+}
+
+.float_facebook {
+  background-color: #775144;
+  color: #fff;
+}
+
+.float_instagram {
+  background-color: #775144;
+  color: #fff;
+}
+
+.float_email {
+  background-color: #775144;
+  color: #fff;
+}
+
+.float_button svg {
+  width: 30px;
+  height: 30px;
+}

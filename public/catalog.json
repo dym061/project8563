@@ -1,0 +1,113 @@
+[{
+		"category": "Cabinets",
+		"items": [{
+				"code": "CAB001",
+				"dim": "20x30x40",
+				"desc": "Glassware Cabinet",
+				"src": "catalog/cabinet001.png"
+			},
+			{
+				"code": "CAB002",
+				"dim": "25x35x45",
+				"desc": "Vintage wooden cabinet",
+				"src": "catalog/cabinet002.png"
+			},
+			{
+				"code": "CAB003",
+				"dim": "25x35x45",
+				"desc": "Large Glassware Cabinet",
+				"src": "catalog/cabinet003.png"
+			}
+		]
+	},
+	{
+		"category": "Chairs",
+		"items": [{
+				"code": "CHR001",
+				"dim": "30x30x40",
+				"desc": "Brown Chair with Leather Seat",
+				"src": "catalog/chair001.png"
+			},
+			{
+				"code": "CHR002",
+				"dim": "35x35x45",
+				"desc": "Black Chair with Leather Seat",
+				"src": "catalog/chair002.png"
+			}
+		]
+	},
+	{
+		"category": "Deco Items",
+		"items": [{
+			"code": "MRD001",
+			"dim": "30x30x40",
+			"desc": "Mirrors and Deco",
+			"src": "catalog/deco001.png"
+		}]
+	},
+	{
+		"category": "Desks",
+		"items": [{
+			"code": "WDK001",
+			"dim": "30x30x40",
+			"desc": "Small Wood Desk",
+			"src": "catalog/desk001.png"
+		}]
+	},
+	{
+		"category": "Tables",
+		"items": [{
+			"code": "TBL001",
+			"dim": "50x50x60",
+			"desc": "Wooden coffee table",
+			"src": "catalog/table001.png"
+		}]
+	},
+	{
+		"category": "Handbags",
+		"items": [{
+				"code": "HAN001",
+				"dim": "20x10x15",
+				"desc": "Leather shoulder bag",
+				"src": "catalog/handbag001.png"
+			},
+			{
+				"code": "HAN002",
+				"dim": "25x15x20",
+				"desc": "Ornament Handbag",
+				"src": "catalog/handbag002.png"
+			},
+			{
+				"code": "HAN003",
+				"dim": "25x15x20",
+				"desc": "Small Handbag",
+				"src": "catalog/handbag003.png"
+			}
+		]
+	},
+	{
+		"category": "Chests",
+		"items": [{
+				"code": "CHT001",
+				"dim": "40x30x20",
+				"desc": "Wooden treasure chest",
+				"src": "/catalog/chest001.png"
+			},
+			{
+				"code": "CHT002",
+				"dim": "50x40x30",
+				"desc": "Metal storage chest",
+				"src": "/catalog/chest002.png"
+			}
+		]
+	},
+	{
+		"category": "Brass Items",
+		"items": [{
+			"code": "BRS001",
+			"dim": "10x10x10",
+			"desc": "Brass paperweight",
+			"src": "/catalog/brass001.png"
+		}]
+	}
+]			
