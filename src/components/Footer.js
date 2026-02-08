@@ -44,7 +44,7 @@ const Footer = () => {
 	  <div className="p2 txtcenter txtfont3 bgcol2 txtsize13 lheight13 dflex dflexm hcenter1">
 	   <div className="pr1">© Copyright Creatift 2023</div> 
 	   <div className="txtsize13 pr1">Designed by </div>
-	   <a target="_blank" href="https://www.facebook.com/ciestomedia" className="pointer">CiestoMedia</a>
+	   <a target="_blank" href="https://lidofox.com" className="pointer">Lidofox</a>
 	  </div>
     </footer>
   );
